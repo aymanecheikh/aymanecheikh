@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm Aymane
-Building intelligent, data-driven systems in Python.
-- 🧠 Projects: Health Tracker
-- ⚙️ Stack: FastAPI, SQLAlchemy, MySQL
-- 📈 Interests: AI Systems, Fitness Analytics, Quant Research
+
+I build intelligent, data-driven systems in Python.
+
+- 🧩 **Project:** [Health Tracker](https://github.com/aymanecheikh/health_tracker)
+- ⚙️ **Stack:** FastAPI, SQLAlchemy, MySQL
+- 📊 **Focus:** Fitness analytics, automation, applied AI
