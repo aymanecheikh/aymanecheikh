@@ -1,9 +1,8 @@
 ## 👋 Hi, I'm Aymane
 
-I build intelligent, data-driven systems in Python.
+I build intelligent, data-driven AI/ML systems in Python.
 
 - 🧩 **Projects:**
-  - [Health Tracker](https://github.com/aymanecheikh/health_tracker)
-  - [DogLand](https://github.com/aymanecheikh/DogLand)
-- ⚙️ **Stack:** FastAPI, SQLAlchemy
-- 📊 **Focus:** Databases, Fitness analytics, automation, applied AI
+  - [Market Prediction](https://github.com/aymanecheikh/market-prediction)
+- ⚙️ **Stack:** Python, Vertex AI
+- 📊 **Focus:** Data Science, Machine Learning, Artifical Intelligence, Cloud Computing, Automation
