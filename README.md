@@ -7,5 +7,9 @@ My cuurrent focus is split in half:
 - Data Science & Machine Learning (Python -> Numpy -> SciPy -> Pandas -> Scikit-Learn (et al.) -> Vertex AI / AWS SageMaker)
 
 
-- 🧩 **Flagship Projects:**
+- **Flagship Projects:**
   - [Market Analysis](https://github.com/aymanecheikh/algo-trading)
+    - Connecting to Interactive Broker API and creating and creating an interface that allows me to query market data (in a specific way) and place orders.
+    - The vision is to have a pipeline that fetches securities that makes it through the screener and use for preprocessing for an AI/ML pipeline.
+- **Side Projects:**
+  - 
