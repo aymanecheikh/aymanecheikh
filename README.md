@@ -11,5 +11,3 @@ My cuurrent focus is split in half:
   - [Market Analysis](https://github.com/aymanecheikh/algo-trading)
     - Connecting to Interactive Broker API and creating and creating an interface that allows me to query market data (in a specific way) and place orders.
     - The vision is to have a pipeline that fetches securities that makes it through the screener and use for preprocessing for an AI/ML pipeline.
-- **Side Projects:**
-  - 
